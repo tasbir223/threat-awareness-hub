@@ -1,4 +1,3 @@
-# threat-awareness-hub
 # Threat Awareness Hub
 
 ## Overview
